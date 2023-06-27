@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc5607d376b7c97419bd4f3dc61b261b, type: 3}
+  m_Name: LevelConfigs
+  m_EditorClassIdentifier: 
+  CollectableToFoundAfterAll: 10
+  CollectableToSpawnAfterAll: 10
+  _configList:
+  - Level: 1
+    CollectableToFound: 3
+    CollectableToSpawn: 5
+  - Level: 2
+    CollectableToFound: 4
+    CollectableToSpawn: 6
+  - Level: 3
+    CollectableToFound: 5
+    CollectableToSpawn: 7
+  - Level: 4
+    CollectableToFound: 6
+    CollectableToSpawn: 8
+  - Level: 5
+    CollectableToFound: 7
+    CollectableToSpawn: 9
+  - Level: 6
+    CollectableToFound: 8
+    CollectableToSpawn: 10
+  - Level: 7
+    CollectableToFound: 9
+    CollectableToSpawn: 10
+  - Level: 8
+    CollectableToFound: 10
+    CollectableToSpawn: 10
